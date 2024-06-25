@@ -1,0 +1,5 @@
+# flask enviroment
+flask_env/
+
+# byte-compiled files
+__pycache__/
